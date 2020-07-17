@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	pb "github.com/pmgexpo17/protobufx/tutorial"
+	pb "github.com/pmgexpo17/protobufx"
 )
 
 func TestWritePersonWritesPerson(t *testing.T) {
